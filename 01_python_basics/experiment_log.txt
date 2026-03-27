@@ -1,0 +1,4 @@
+Model:XGBoost
+Accuracy:0.94
+Loss:0.21
+Epochs:100
