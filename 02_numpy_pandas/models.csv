@@ -1,0 +1,7 @@
+model,accuracy,training_time_seconds,framework,year_released,accuracy_pct,grade,is_modern
+Logistic Regression,0.85,5,scikit-learn,1958,85.0,B,False
+Random Forest,0.89,120,scikit-learn,2001,89.0,B,False
+XGBoost,0.91,180,XGBoost,2016,91.0,B,False
+ResNet50,0.93,3600,PyTorch,2015,93.0,A,False
+BERT,0.94,7200,TensorFlow,2018,94.0,A,False
+GPT-3,0.96,200000,OpenAI,2020,96.0,A,True
