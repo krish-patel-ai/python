@@ -32,7 +32,7 @@ This isn't a static learning repo. It's a living document.
 I started with Python basics. I'm heading toward building and deploying production LLM systems.
 Every week, a new folder gets added. Every commit is a step forward.
 
-**End goal:** Land an AI Engineer internship at a Bangalore AI startup by June 2025 — and document every step of the journey here.
+**End goal:** Land an AI Engineer internship at a Bangalore AI startup by June 2026 — and document every step of the journey here.
 
 ---
 
